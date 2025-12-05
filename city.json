@@ -1,0 +1,234 @@
+[
+  {
+    "description": "Varanasi Junction, Varanasi Railway Station Road, Railwayganj Colony, Varanasi, Uttar Pradesh, India",
+    "place_id": "ChIJC5JRawAtjk8RwZiczH8MuI",
+    "structured_formatting": {
+      "main_text": "Varanasi Junction",
+      "secondary_text": "Varanasi Railway Station Road, Railwayganj Colony, Varanasi, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Varanasi Airport, Varanasi, Babatpur, Uttar Pradesh, India",
+    "place_id": "ChIJB57f8a-2fDkRAwZicZHzMuI",
+    "structured_formatting": {
+      "main_text": "Varanasi Airport",
+      "secondary_text": "Varanasi, Babatpur, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Varanasi Cantt, Varanasi, Uttar Pradesh, India",
+    "place_id": "ChIJ8Y8XwY2VNTkRjL2vK8mLsQ0",
+    "structured_formatting": {
+      "main_text": "Varanasi Cantt",
+      "secondary_text": "Varanasi, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Varanasi railway station, Raja Bazar Road, Patel Nagar, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh, India",
+    "place_id": "ChIJC5JRawAtjk8RwZiczH8MuI",
+    "structured_formatting": {
+      "main_text": "Varanasi railway station",
+      "secondary_text": "Raja Bazar Road, Patel Nagar, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Lucknow N.R. Railway Stadium, Station Road, Railway Colony, Charbagh, Lucknow, Uttar Pradesh, India",
+    "place_id": "ChIJ4dcVUz8mzrkSnwFE4gnwbU",
+    "structured_formatting": {
+      "main_text": "Lucknow N.R. Railway Stadium",
+      "secondary_text": "Station Road, Railway Colony, Charbagh, Lucknow, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Lucknow Junction NER, Railway Colony, Charbagh, Lucknow, Uttar Pradesh, India",
+    "place_id": "ChIJJ8uzH8r8nzkR8n4f3KVO83g",
+    "structured_formatting": {
+      "main_text": "Lucknow Junction NER",
+      "secondary_text": "Railway Colony, Charbagh, Lucknow, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Lucknow - Agra Expressway, Khargua, Deeg, Uttar Pradesh, India",
+    "place_id": "ChIJq6qqqvO3OjkR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Lucknow - Agra Expressway",
+      "secondary_text": "Khargua, Deeg, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Chaudhary Charan Singh International Airport (LKO), Amausi, Lucknow, Uttar Pradesh, India",
+    "place_id": "ChIJn3At07SmzrkMhDA6fXdT",
+    "structured_formatting": {
+      "main_text": "Chaudhary Charan Singh International Airport (LKO)",
+      "secondary_text": "Amausi, Lucknow, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Mumbai Central, Mumbai, Maharashtra, India",
+    "place_id": "ChIJN3Gx0W7o5zsR4IX7GQG4",
+    "structured_formatting": {
+      "main_text": "Mumbai Central",
+      "secondary_text": "Mumbai, Maharashtra, India"
+    }
+  },
+  {
+    "description": "Mumbai Central Railway Station Building, Mumbai Central, Mumbai, Maharashtra, India",
+    "place_id": "ChIJ3b8z7Y3DxjsR7g9m9b2p1kM",
+    "structured_formatting": {
+      "main_text": "Mumbai Central Railway Station Building",
+      "secondary_text": "Mumbai Central, Mumbai, Maharashtra, India"
+    }
+  },
+  {
+    "description": "Mumbai Naka, Renuka Nagar, Nashik, Maharashtra, India",
+    "place_id": "ChIJM9g6z8vL4jkR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Mumbai Naka, Renuka Nagar",
+      "secondary_text": "Nashik, Maharashtra, India"
+    }
+  },
+  {
+    "description": "Mumbai - Pune Expressway, Yamuna Kunj, Sector-10, New Panvel East, Panvel, Navi Mumbai, Maharashtra, India",
+    "place_id": "ChIJA1bFkT5kYzAR8J0qR5vD4iM",
+    "structured_formatting": {
+      "main_text": "Mumbai - Pune Expressway",
+      "secondary_text": "Yamuna Kunj, Sector-10, New Panvel East, Panvel, Navi Mumbai, Maharashtra, India"
+    }
+  },
+  {
+    "description": "Delhi, India",
+    "place_id": "ChIJLbZ-NFv9DDkR4bFecgMFeFgM",
+    "structured_formatting": {
+      "main_text": "Delhi",
+      "secondary_text": "India"
+    }
+  },
+  {
+    "description": "Delhi Cantt Railway Junction, Kirby Place, Delhi Cantonment, New Delhi, Delhi, India",
+    "place_id": "ChIJUbZ-NFv9DDkR0JY4FbFecgM",
+    "structured_formatting": {
+      "main_text": "Delhi Cantt Railway Junction",
+      "secondary_text": "Kirby Place, Delhi Cantonment, New Delhi, Delhi, India"
+    }
+  },
+  {
+    "description": "Delhi Airport (DEL), New Delhi, Delhi, India",
+    "place_id": "ChIJSd6Q_UBIDDkR7u6j2vB3j4k",
+    "structured_formatting": {
+      "main_text": "Delhi Airport (DEL)",
+      "secondary_text": "New Delhi, Delhi, India"
+    }
+  },
+  {
+    "description": "Delhi railway station, Meena Bazaar, Jama Masjid, Old Delhi, Delhi, India",
+    "place_id": "ChIJ5f5p5oF4AjoR8f8e8tY9z0M",
+    "structured_formatting": {
+      "main_text": "Delhi railway station",
+      "secondary_text": "Meena Bazaar, Jama Masjid, Old Delhi, Delhi, India"
+    }
+  },
+  {
+    "description": "Delhi - Mumbai Expressway, Anagad, Gujarat, India",
+    "place_id": "ChIJq6qqqvO3OjkR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Delhi - Mumbai Expressway",
+      "secondary_text": "Anagad, Gujarat, India"
+    }
+  },
+  {
+    "description": "Kempegowda International Airport Bengaluru (BLR), Karnataka, India",
+    "place_id": "ChIJL0e2ff4VrjsR2j3wI4x5tQw",
+    "structured_formatting": {
+      "main_text": "Kempegowda International Airport Bengaluru (BLR)",
+      "secondary_text": "Karnataka, India"
+    }
+  },
+  {
+    "description": "Bangalore Palace, Palace Cross Road, Vasanth Nagar, Bengaluru, Karnataka, India",
+    "place_id": "ChIJVJEd4gRisYARikFoewlybCk",
+    "structured_formatting": {
+      "main_text": "Bangalore Palace",
+      "secondary_text": "Palace Cross Road, Vasanth Nagar, Bengaluru, Karnataka, India"
+    }
+  },
+  {
+    "description": "Bangalore Cantonment Railway Station, Cantonment Railway Quarters, Shivaji Nagar, Bengaluru, Karnataka, India",
+    "place_id": "ChIJK3p2vK4WrjsR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Bangalore Cantonment Railway Station",
+      "secondary_text": "Cantonment Railway Quarters, Shivaji Nagar, Bengaluru, Karnataka, India"
+    }
+  },
+  {
+    "description": "Bangalore Baptist Hospital, Bellary Road, Vinayakanagar, Hebbal, Bengaluru, Karnataka, India",
+    "place_id": "ChIJ0Y7KkZ0tdk8R6g7h8i9j0k1",
+    "structured_formatting": {
+      "main_text": "Bangalore Baptist Hospital",
+      "secondary_text": "Bellary Road, Vinayakanagar, Hebbal, Bengaluru, Karnataka, India"
+    }
+  },
+  {
+    "description": "Noida City Centre Bus Stand, Morna, Sector 35, Noida, Uttar Pradesh, India",
+    "place_id": "ChIJNOGuJmHIDkR7oG7SGkbSM",
+    "structured_formatting": {
+      "main_text": "Noida City Centre Bus Stand",
+      "secondary_text": "Morna, Sector 35, Noida, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Noida Stadium, Sector 21A, Noida, Uttar Pradesh, India",
+    "place_id": "ChIJbY4v0vL94jkR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Noida Stadium",
+      "secondary_text": "Sector 21A, Noida, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Noida city center, Sector 39, Noida, Uttar Pradesh, India",
+    "place_id": "ChIJA8f6J6x3czAR7k9m0nP1q2R",
+    "structured_formatting": {
+      "main_text": "Noida city center",
+      "secondary_text": "Sector 39, Noida, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Noida Sector 16 Metro Station, Block A, Noida Sector 3, Noida, Uttar Pradesh, India",
+    "place_id": "ChIJF5k5S5YBDTkR3f5g6hJ7k8L",
+    "structured_formatting": {
+      "main_text": "Noida Sector 16 Metro Station",
+      "secondary_text": "Block A, Noida Sector 3, Noida, Uttar Pradesh, India"
+    }
+  },
+  {
+    "description": "Kolkata Railway Station (KOAA) Waiting Lounge, Belgachia, Kolkata, West Bengal, India",
+    "place_id": "ChIJgZmJawB3AjoRyCvgdhe4pIU",
+    "structured_formatting": {
+      "main_text": "Kolkata Railway Station (KOAA) Waiting Lounge",
+      "secondary_text": "Belgachia, Kolkata, West Bengal, India"
+    }
+  },
+  {
+    "description": "KOLKATA STATION, Belgachia, Kolkata, West Bengal, India",
+    "place_id": "ChIJgZmJawB3AjoRyCvgdhe4pIU",
+    "structured_formatting": {
+      "main_text": "KOLKATA STATION",
+      "secondary_text": "Belgachia, Kolkata, West Bengal, India"
+    }
+  },
+  {
+    "description": "Netaji Subhash Chandra Bose International Airport (CCU), Airport Service Rd, International Airport, Dum Dum, Kolkata, West Bengal, India",
+    "place_id": "ChIJJ2qKX5gA3joR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Netaji Subhash Chandra Bose International Airport (CCU)",
+      "secondary_text": "Airport Service Rd, International Airport, Dum Dum, Kolkata, West Bengal, India"
+    }
+  },
+  {
+    "description": "Kolkata Airport Quarters, Dum Dum, Kolkata, West Bengal, India",
+    "place_id": "ChIJJ2qKX5gA3joR9kLmN0pQ_rM",
+    "structured_formatting": {
+      "main_text": "Kolkata Airport Quarters",
+      "secondary_text": "Dum Dum, Kolkata, West Bengal, India"
+    }
+  }
+]
